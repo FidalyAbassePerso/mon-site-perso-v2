@@ -1,0 +1,14 @@
+#box {
+    -webkit-clip-path:polygon(0 0, 100% 0, 100% 95%, 0% 100%);
+    clip-path:polygon(0 0, 100% 0, 100% 55%, 0% 100%);
+   }
+#contact{
+    -webkit-clip-path:polygon(0 30%, 100% 0, 100% 95%, 0% 95%);
+    clip-path:polygon(0 30%, 100% 0, 100% 55%, 0% 55%);
+}
+
+#titreAcceuil {
+    -webkit-clip-path:polygon(15% 0, 85% 0, 84% 8%, 14% 8%);
+    clip-path:polygon(15% 0, 85% 0, 84% 8%, 14% 8%);
+    background:#fcd238;
+}
